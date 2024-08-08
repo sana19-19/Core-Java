@@ -1,0 +1,9 @@
+class nonpristatic1 
+{
+	char a='x';
+	static nonpristatic1 ref = new nonpristatic1();
+	public static void main(String []args)
+	{
+		System.out.println(nonpristatic1.ref.a);
+	}
+}

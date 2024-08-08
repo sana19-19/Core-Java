@@ -1,0 +1,19 @@
+class while1 
+{
+	public static void main(String[] args) 
+	{
+		int i=1;
+		while(true);
+		{
+			System.out.println(i);
+		}
+		
+	}
+}
+/*the whilw loop the way is work it's if is a condition is true then only the statement within the loop is executed.
+However if the condition is false the statment within the while loop is will not get exicuted.
+the for loop  and while loop are called as entry controled loop.
+entry control loop will check the condition at the entry and based on it decide it will enter or not within the loop such loops are called as entry controlled loop.
+we can directly said boolean value within the condition.
+statements are not allowed in the while .
+write a java program if a number byte is existing between 1 to 10,if existing print the number.*/

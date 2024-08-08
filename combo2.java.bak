@@ -1,0 +1,24 @@
+class combo2
+{   int a=7;
+   public static void main(String []args)
+	{
+		/*System.out.println(a);
+		combo2.java:5: error: non-static variable a cannot be referenced from a static context
+        System.out.println(a);
+		System.out.println(combo2.a);
+		combo2.java:8: error: non-static variable a cannot be referenced from a static context
+        System.out.println(combo2.a); 
+		combo2 obj = new combo2();
+		System.out.println(obj.a);*/
+		combo2 obj1 = new combo2();
+        obj1.m1();
+
+	}
+	void m1()
+	{
+		System.out.println(a);
+		System.out.println(combo2.a);
+		combo2 obj1 = new combo2();
+		System.out.println(obj1.a);
+    }
+}

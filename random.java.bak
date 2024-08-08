@@ -1,0 +1,15 @@
+class Dog extends Animal
+{
+	void eat()
+	{
+		System.out.println("Dog eating");
+	}
+}
+class TestInheritance
+{
+	public static void main(String args[])
+	{
+		Dog a = new Animal();
+		a.eat();
+	}
+}

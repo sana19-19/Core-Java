@@ -1,0 +1,8 @@
+class Local1 
+{
+	public static void main(String[] args) 
+	{
+		int i=7;    //directly access
+		System.out.println(i);
+	}
+}

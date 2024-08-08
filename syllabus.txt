@@ -1,0 +1,22 @@
+
+
+   1-round:Basics and core concepts of java and programming.
+           *Loops
+           *Conditionals
+           *Functions
+           *Recursion
+           *Time and Space Complexity
+           *Java
+           *Scripting projects,POM framework project
+   2-round:Tools and Types-
+           Software Testing Methodologies
+           SDLC
+           STLC
+           BLC
+           ATLC
+           Test techniques
+           *Basic programming,java,Backend and Frontend programming
+           *Selenium,Cucumber,TestNG,Appium,JMeter,JIRA,Jenkins.
+   3-round:Scripting Project
+   4-round:Automation Framework Project
+   5-round:Face the interview

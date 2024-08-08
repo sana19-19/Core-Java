@@ -1,0 +1,11 @@
+class Array1 
+{
+	public static void main(String[] args) 
+	{
+		int[] a = new int[7];
+		a[0]=7;
+		a[1]=77;
+		System.out.println(a[0]);
+		System.out.println(a[1]);
+	}
+}

@@ -1,0 +1,10 @@
+class  boolean1
+{
+	public static void main(String[] args) 
+	{
+		boolean var1 = 0;
+		System.out.println(var1);
+		boolean var2 = 1;
+		System.out.println(var2);
+	}
+}
